@@ -1,2 +1,2 @@
 # Overview
-This is a repository for my first language model
+This is a repository for my first gpt
