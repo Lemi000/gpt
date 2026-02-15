@@ -4,3 +4,4 @@ This is a repository for my first gpt
 - argparse
 - fine tuning
 - new training files
+- tokenization
